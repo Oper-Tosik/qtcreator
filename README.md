@@ -1,2 +1,2 @@
 # qtcreator
-Some R2 graphic projects
+Не доведены до ума
